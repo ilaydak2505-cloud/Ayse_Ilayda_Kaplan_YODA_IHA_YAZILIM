@@ -50,12 +50,12 @@ for kelime in kelimeler: # Listedeki her bir kelimeyi tek tek kontrol etmek içi
 print(f"Toplam kelime sayısı: {toplam_kelime}")# Hesaplanan toplam kelime sayısını ekrana yazdırıyoruz.
 
 
-print(f"Toplam karakter sayısı (boşluklar dahil): {toplam_karakter}")# Hesaplanan toplam karakter sayısını ve artı olarak boşluk sayısını ekrana yazdırıyoruz.
+print(f"toplam karakter ve boşluklar sayısı: {toplam_karakter}")# Hesaplanan toplam karakter sayısını ve artı olarak boşluk sayısını ekrana yazdırıyoruz.
 
-print(f"En uzun kelimenin uzunluğu: {en_uzun_uzunluk}")# Bulunan en uzun kelimenin harf saysını ekrana yazıyoruz.
+print(f"en uzun kelimenin uzunluğu: {en_uzun_uzunluk}")# Bulunan en uzun kelimenin harf saysını ekrana yazıyoruz.
 
 
-print("Kelimelerin tekrar sayıları:")# tekrar sayılarını listelemeden önce başlık yazdırıyoruz.
+print("kelimelerin tekrar sayıları:")# tekrar sayılarını listelemeden önce başlık yazdırıyoruz.
 
 # Sözlükteki her bir kelime için döngü kuruyoruz.
 
